@@ -1,0 +1,44 @@
+Pincode,City,State,Zone,Vendor,OFD TAT,Location
+380001,Ahmedabad,Gujarat,Local,ABC Courier,1-2 days,CG Road
+380005,Ahmedabad,Gujarat,Local,ABC Courier,1-2 days,Satellite
+380007,Ahmedabad,Gujarat,Local,XYZ Logistics,1-2 days,Bodakdev
+380009,Ahmedabad,Gujarat,Local,ABC Courier,1-2 days,Navrangpura
+380013,Ahmedabad,Gujarat,Local,PQR Delivery,1-2 days,Thaltej
+400001,Mumbai,Maharashtra,Metro,XYZ Logistics,2-3 days,Fort
+400004,Mumbai,Maharashtra,Metro,XYZ Logistics,2-3 days,Kala Ghoda
+400005,Mumbai,Maharashtra,Metro,ABC Courier,2-3 days,Kelvinator
+400006,Mumbai,Maharashtra,Metro,XYZ Logistics,2-3 days,Ballard Estate
+400007,Mumbai,Maharashtra,Metro,PQR Delivery,2-3 days,Colaba
+400011,Mumbai,Maharashtra,Metro,ABC Courier,2-3 days,Mazagaon
+400015,Mumbai,Maharashtra,Non-Delivery Zone,XYZ Logistics,4-5 days,Parel
+400020,Mumbai,Maharashtra,Metro,ABC Courier,2-3 days,Dadar
+400025,Mumbai,Maharashtra,Metro,PQR Delivery,2-3 days,Mahim
+560001,Bangalore,Karnataka,Local,DEF Delivery,1 day,MG Road
+560002,Bangalore,Karnataka,Local,ABC Courier,1 day,Vasanth Nagar
+560003,Bangalore,Karnataka,Local,XYZ Logistics,1 day,Domlur
+560004,Bangalore,Karnataka,Local,DEF Delivery,1 day,Indiranagar
+560005,Bangalore,Karnataka,Local,ABC Courier,1 day,Koramangala
+560009,Bangalore,Karnataka,Non-Delivery Zone,PQR Delivery,3-4 days,Yeshwantpur
+560034,Bangalore,Karnataka,Local,DEF Delivery,1 day,Whitefield
+560068,Bangalore,Karnataka,Local,ABC Courier,1 day,Marathahalli
+700001,Kolkata,West Bengal,Local,PQR Delivery,2-3 days,Esplanade
+700006,Kolkata,West Bengal,Local,ABC Courier,2-3 days,B.B.D. Bagh
+700009,Kolkata,West Bengal,Local,XYZ Logistics,2-3 days,Chowringhee
+700019,Kolkata,West Bengal,Local,DEF Delivery,2-3 days,Bhowanipore
+700025,Kolkata,West Bengal,Non-Delivery Zone,ABC Courier,4-5 days,Alipur
+110001,Delhi,Delhi,Metro,XYZ Logistics,1 day,Kasturba Nagar
+110002,Delhi,Delhi,Metro,ABC Courier,1 day,Kalkaji
+110006,Delhi,Delhi,Metro,PQR Delivery,1 day,New Delhi
+110007,Delhi,Delhi,Metro,DEF Delivery,1 day,Malviya Nagar
+110008,Delhi,Delhi,Metro,ABC Courier,1 day,Mehrauli
+110015,Delhi,Delhi,Non-Delivery Zone,XYZ Logistics,3-4 days,Tughlakabad
+110016,Delhi,Delhi,Metro,XYZ Logistics,1 day,Chhattarpur
+110019,Delhi,Delhi,Metro,ABC Courier,1 day,Sangam Vihar
+600001,Chennai,Tamil Nadu,Local,PQR Delivery,2 days,Royapettah
+600002,Chennai,Tamil Nadu,Local,ABC Courier,2 days,George Town
+600003,Chennai,Tamil Nadu,Local,XYZ Logistics,2 days,Perambur
+600006,Chennai,Tamil Nadu,Local,DEF Delivery,2 days,Egmore
+600007,Chennai,Tamil Nadu,Local,ABC Courier,2 days,Nungambakkam
+600021,Chennai,Tamil Nadu,Non-Delivery Zone,PQR Delivery,3-4 days,Kodambakkam
+600034,Chennai,Tamil Nadu,Local,XYZ Logistics,2 days,Velachery
+600035,Chennai,Tamil Nadu,Local,ABC Courier,2 days,Besant Nagar

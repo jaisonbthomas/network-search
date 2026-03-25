@@ -1,0 +1,60 @@
+.pfl-wrap {
+    max-width: 900px;
+    margin: 1rem auto;
+    padding: 1rem;
+    border: 1px solid #eee;
+    border-radius: 14px;
+}
+
+.pfl-form {
+    display: flex;
+    gap: 0.5rem;
+    align-items: center;
+    flex-wrap: wrap;
+}
+
+.pfl-form input {
+    flex: 1;
+    min-width: 220px;
+    padding: 0.6rem 0.8rem;
+    border: 1px solid #ccc;
+    border-radius: 10px;
+}
+
+.pfl-form button {
+    padding: 0.6rem 1rem;
+    border: 0;
+    border-radius: 10px;
+    background: #111;
+    color: #fff;
+    cursor: pointer;
+}
+
+.pfl-badge {
+    display: inline-block;
+    padding: 0.12rem 0.5rem;
+    border-radius: 999px;
+    font-size: 0.8rem;
+    border: 1px solid rgba(0, 0, 0, 0.1);
+}
+
+.pfl-badge.yes {
+    background: #e6f6ea;
+}
+
+.pfl-badge.no {
+    background: #feeceb;
+}
+
+.pfl-table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 0.5rem;
+}
+
+.pfl-table th,
+.pfl-table td {
+    border: 1px solid #eee;
+    padding: 0.5rem;
+    text-align: left;
+}

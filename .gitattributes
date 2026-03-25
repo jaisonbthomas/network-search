@@ -1,0 +1,39 @@
+# Auto detect text files and normalize line endings to LF
+* text=auto
+
+# PHP
+*.php text eol=lf
+*.phps text eol=lf
+
+# JavaScript
+*.js text eol=lf
+*.json text eol=lf
+
+# CSS
+*.css text eol=lf
+*.scss text eol=lf
+
+# Shell
+*.sh text eol=lf
+*.bash text eol=lf
+
+# Documentation
+*.md text eol=lf
+*.txt text eol=lf
+
+# Binary files
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.gif binary
+*.ico binary
+*.woff binary
+*.woff2 binary
+*.ttf binary
+*.eot binary
+
+# CSV (can be handled differently on Windows)
+*.csv text eol=lf
+
+# Markdown
+*.md text diff=markdown
