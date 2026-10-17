@@ -30,33 +30,33 @@ When using Network Search, please follow these security best practices:
 
 ### For Administrators
 
-- ✅ Keep WordPress updated
-- ✅ Keep PHP updated (7.2+)
-- ✅ Use strong admin passwords
-- ✅ Enable two-factor authentication
-- ✅ Regular database backups
-- ✅ Use HTTPS on your website
-- ✅ Keep plugins and themes updated
+- Keep WordPress updated
+- Keep PHP updated (7.2+)
+- Use strong admin passwords
+- Enable two-factor authentication
+- Regular database backups
+- Use HTTPS on your website
+- Keep plugins and themes updated
 
 ### For Developers
 
-- ✅ Use `wp_kses_post()` for output
-- ✅ Use `prepare()` for database queries
-- ✅ Validate and sanitize all user inputs
-- ✅ Use proper nonce verification
-- ✅ Check user capabilities with `current_user_can()`
-- ✅ Don't expose sensitive data in URLs
+- Use `wp_kses_post()` for output
+- Use `prepare()` for database queries
+- Validate and sanitize all user inputs
+- Use proper nonce verification
+- Check user capabilities with `current_user_can()`
+- Don't expose sensitive data in URLs
 
 ## Plugin Security Features
 
 Network Search includes:
 
-✅ SQL Prepared Statements - Protects against SQL injection
-✅ Nonce Verification - Protects against CSRF attacks
-✅ Input Sanitization - Cleans all user inputs
-✅ Capability Checks - Only allows authorized users
-✅ Escape Output - Prevents XSS vulnerabilities
-✅ Safe File Upload Handling - Validates file types and sizes
+SQL Prepared Statements - Protects against SQL injection
+Nonce Verification - Protects against CSRF attacks
+Input Sanitization - Cleans all user inputs
+Capability Checks - Only allows authorized users
+Escape Output - Prevents XSS vulnerabilities
+Safe File Upload Handling - Validates file types and sizes
 
 ## Known Issues
 
@@ -81,4 +81,4 @@ Currently, no known security vulnerabilities exist in Network Search v1.0.0.
 
 ---
 
-Thank you for helping keep Network Search secure! 🔒
+Thank you for helping keep Network Search secure! 
