@@ -60,4 +60,4 @@ Please be respectful and constructive in all interactions.
 
 Feel free to open an issue with your question. We're here to help!
 
-Thank you for contributing! 🚀
+Thank you for contributing! 
