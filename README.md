@@ -7,16 +7,16 @@
 ![WordPress](https://img.shields.io/badge/wordpress-%3E%3D5.0-blue)
 ![PHP](https://img.shields.io/badge/php-%3E%3D7.2-blue)
 
-## ✨ Features
+##  Features
 
-- **⚡ Live Search**: AJAX-powered search for pincodes or areas with instant results
-- **📁 CSV Import**: Upload CSV files with flexible column headers for bulk data import
-- **🎯 Delivery Zone Check**: Automatically determines if an area is in the delivery zone
-- **📱 Responsive UI**: Clean, modern interface that works on all devices
-- **🔧 Easy Integration**: Simple `[pincode_checker]` shortcode for any page
-- **⚙️ Admin Panel**: Simple interface for importing data and viewing statistics
-- **📊 Sample Data**: Includes test data from major Indian cities for quick testing
-- **🔐 Secure**: Proper nonces, sanitization, and database prepared statements
+- ** Live Search**: AJAX-powered search for pincodes or areas with instant results
+- ** CSV Import**: Upload CSV files with flexible column headers for bulk data import
+- ** Delivery Zone Check**: Automatically determines if an area is in the delivery zone
+- ** Responsive UI**: Clean, modern interface that works on all devices
+- ** Easy Integration**: Simple `[pincode_checker]` shortcode for any page
+- ** Admin Panel**: Simple interface for importing data and viewing statistics
+- ** Sample Data**: Includes test data from major Indian cities for quick testing
+- ** Secure**: Proper nonces, sanitization, and database prepared statements
 
 ## Features
 
@@ -27,14 +27,14 @@
 - **Shortcode Support**: Easy integration with `[pincode_checker]` shortcode.
 - **Admin Interface**: Simple admin panel for importing data and viewing statistics.
 
-## 🚀 Quick Start
+##  Quick Start
 
 ### Installation
 
 1. Download the plugin
 2. Upload to `/wp-content/plugins/`
 3. Activate from WordPress admin
-4. Done! 🎉
+4. Done! 
 
 **Detailed instructions?** See [INSTALL.md](INSTALL.md)
 
@@ -98,14 +98,14 @@ Pincode,City,State,Zone,Vendor,OFD TAT,Location
 400001,Mumbai,Maharashtra,Metro,XYZ Logistics,2-3 days,Fort
 ```
 
-## 📋 Documentation
+##  Documentation
 
 - **[INSTALL.md](INSTALL.md)** - Detailed installation and setup guide
 - **[CONTRIBUTING.md](CONTRIBUTING.md)** - How to contribute to the project
 - **[CHANGELOG.md](CHANGELOG.md)** - Version history and updates
 - **[GITHUB_SETUP.md](GITHUB_SETUP.md)** - Git setup and push to GitHub
 
-## 🔧 Technical Details
+##  Technical Details
 
 ### Architecture
 
@@ -148,7 +148,7 @@ wp_network_search {
 - **AJAX**: Debounced at 250ms to reduce server load
 - **Result Limit**: 800 records max per search
 
-## 📦 File Structure
+##  File Structure
 
 ```
 network-search/
@@ -217,7 +217,7 @@ A: Yes, use the `PFL_Import` class methods or directly insert into the database 
 
 This plugin is licensed under the GPL-2.0+.
 
-## 🤝 Contributing
+##  Contributing
 
 We welcome contributions! Please see [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines on:
 
@@ -226,23 +226,23 @@ We welcome contributions! Please see [CONTRIBUTING.md](CONTRIBUTING.md) for guid
 - Code contributions
 - Pull request process
 
-## 📄 License
+##  License
 
 This plugin is licensed under the **GPL-2.0+** license. See [LICENSE](LICENSE) for full details.
 
-## 👥 Author
+##  Author
 
 **Radweber | Jaison B Thomas**
 - GitHub: [@jaisonbthomas](https://github.com/jaisonbthomas)
 - Repository: [network-search](https://github.com/jaisonbthomas/network-search)
 
-## 🆘 Support & Issues
+##  Support & Issues
 
 - **Bug Reports**: [GitHub Issues](https://github.com/jaisonbthomas/network-search/issues)
 - **Feature Requests**: [GitHub Discussions](https://github.com/jaisonbthomas/network-search/discussions)
 - **Documentation**: [INSTALL.md](INSTALL.md) and [README.md](README.md)
 
-## ⭐ Show Your Support
+##  Show Your Support
 
 If you find this plugin useful, please give it a ⭐ on GitHub!
 
