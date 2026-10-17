@@ -9,14 +9,14 @@
 
 ##  Features
 
-- ** Live Search**: AJAX-powered search for pincodes or areas with instant results
-- ** CSV Import**: Upload CSV files with flexible column headers for bulk data import
-- ** Delivery Zone Check**: Automatically determines if an area is in the delivery zone
-- ** Responsive UI**: Clean, modern interface that works on all devices
-- ** Easy Integration**: Simple `[pincode_checker]` shortcode for any page
-- ** Admin Panel**: Simple interface for importing data and viewing statistics
-- ** Sample Data**: Includes test data from major Indian cities for quick testing
-- ** Secure**: Proper nonces, sanitization, and database prepared statements
+- **Live Search**: AJAX-powered search for pincodes or areas with instant results
+- **CSV Import**: Upload CSV files with flexible column headers for bulk data import
+- **Delivery Zone Check**: Automatically determines if an area is in the delivery zone
+- **Responsive UI**: Clean, modern interface that works on all devices
+- **Easy Integration**: Simple `[pincode_checker]` shortcode for any page
+- **Admin Panel**: Simple interface for importing data and viewing statistics
+- **Sample Data**: Includes test data from major Indian cities for quick testing
+- **Secure**: Proper nonces, sanitization, and database prepared statements
 
 ## Features
 
